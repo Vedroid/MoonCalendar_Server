@@ -1,4 +1,4 @@
-## MoonCalendar_Server
+## MoonCalendar
 
 The project implements a network application - a client-server cross-platform program and a database for it. <br>
 The server receives requests from the client, processes them and responds with predictions for the current day from the database. <br>
